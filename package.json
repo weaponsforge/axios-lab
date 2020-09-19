@@ -4,6 +4,7 @@
   "description": "Axios notes and experiments.",
   "main": "index.js",
   "scripts": {
+    "start": "node server/index",
     "dev": "webpack-dev-server --open",
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -30,5 +31,9 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "express": "^4.17.1"
   }
 }

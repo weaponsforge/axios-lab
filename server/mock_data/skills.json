@@ -1,0 +1,42 @@
+[
+  {
+    "name": "dio",
+    "skills": {
+      "s1": "onrush",
+      "s2": "death sign"
+    },
+    "special": "innocent fear",
+    "passive": "devil force"
+  },
+  {
+    "name": "nelia",
+    "special": "twilight explosion"
+  },
+  {
+    "name": "zero",
+    "skills": {
+      "s1": "gran x",
+      "s2": "bleeding gash"
+    },
+    "special": "dimensional fissure",
+    "passive": "increase"
+  },
+  {
+    "name": "rufus",
+    "skills": {
+      "s1": "final shot",
+      "s2": "make it rain"
+    },
+    "special": "expunge",
+    "passive": "wolf's seal"
+  },
+  {
+    "name": "lime",
+    "skills": {
+      "s1": "bless",
+      "s2": "glory"
+    },
+    "special": "liberation",
+    "passive": "oracle"
+  }
+]

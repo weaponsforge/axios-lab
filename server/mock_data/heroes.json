@@ -1,0 +1,27 @@
+[
+  {
+    "name": "dio",
+    "class": "assault",
+    "weapon": "death star"
+  },
+  {
+    "name": "nelia",
+    "class": "mage",
+    "weapon": "devil's tail"
+  },
+  {
+    "name": "zero",
+    "class": "tank",
+    "weapon": "grandark"
+  },
+  {
+    "name": "rufus",
+    "class": "ranger",
+    "weapon": "eye teeth"
+  },
+  {
+    "name": "lime",
+    "class": "healer",
+    "weapon": "blessing hammer"
+  }
+]
